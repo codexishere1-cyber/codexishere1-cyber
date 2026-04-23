@@ -13,7 +13,7 @@
     <td width="60%" style="vertical-align: top;">
       <br>
       <ul>
-        <li>🎓 <b>CS Student</b> exploring the depths.</li>
+        <li>🎓 <b>Computer Science Student</b>.</li>
         <li>💻 <b>Tech Stack:</b> C++, Python, Data Analysis.</li>
       </ul>
     </td>
