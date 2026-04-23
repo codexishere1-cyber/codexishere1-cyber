@@ -13,7 +13,7 @@
 ---
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW9jZXN2Z2g5ZXRhNWlydDg4cjZpNHhtb2NxZjB1YnUxZ2QxZHYyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SUcnmocyRKkfSil9xd/giphy.gif" width="100%" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2d2bTNlZ2Z2a2FrdHUycXk3NGhlcXFxemp3M2VqNWV5bTU5cGY2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" width="100%" />
 </p>
 
 ---
@@ -21,5 +21,5 @@
 
 ### 📱 Connect with me
 <p align="left">
-<a href="https://www.tiktok.com/@code_x_1?_r=1&_t=ZS-95mLRJzJFiM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tiktok.svg" alt="TikTok" height="30" width="40" /></a>
+<a href="https://img.icons8.com/?size=100&id=11xHwSW974uy&format=png&color=000000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tiktok.svg" alt="TikTok" height="30" width="40" /></a>
 </p>
