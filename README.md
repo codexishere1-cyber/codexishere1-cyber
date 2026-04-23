@@ -1,7 +1,7 @@
 <p align="center"> ᴄᴏᴅᴇ x ⚡ </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?                         font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=sʜᴀʀɪɴɢ+ᴄs+ᴛᴀsᴋs;ᴄʟᴇᴀɴ+ᴄᴏᴅᴇ+sɴɪᴘᴘᴇᴛs;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=sʜᴀʀɪɴɢ+ᴄs+ᴛᴀsᴋs;ᴄʟᴇᴀɴ+ᴄᴏᴅᴇ+sɴɪᴘᴘᴇᴛs;" alt="Typing SVG" />
 </p>
 
 ---
