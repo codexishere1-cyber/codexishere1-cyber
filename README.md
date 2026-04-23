@@ -1,7 +1,7 @@
 <p align="center"> ᴄᴏᴅᴇ x ⚡ </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=sʜᴀʀɪɴɢ+ᴄs+ᴄᴜʀʀɪᴄᴜʟᴜᴍ+ᴛᴀsᴋs;ᴄʟᴇᴀɴ+ᴄᴏᴅᴇ+sɴɪᴘᴘᴇᴛs;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?                         font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=sʜᴀʀɪɴɢ+ᴄs+ᴛᴀsᴋs;ᴄʟᴇᴀɴ+ᴄᴏᴅᴇ+sɴɪᴘᴘᴇᴛs;" alt="Typing SVG" />
 </p>
 
 ---
@@ -13,7 +13,7 @@
     <td width="60%" style="vertical-align: top;">
       <br>
       <ul>
-        <li>🎓 <b>CS Student</b> exploring the depths of Algorithms & Data Structures.</li>
+        <li>🎓 <b>CS Student</b> exploring the depths.</li>
         <li>💻 <b>Tech Stack:</b> C++, Python, Data Analysis.</li>
       </ul>
     </td>
